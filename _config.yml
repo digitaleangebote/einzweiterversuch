@@ -2,7 +2,7 @@
 # Site
 
 title: Alice's Adventures In Wonderland
-url: "https://adored-walnut.cloudvent.net/"
+url: "https://digitaleangebote.github.io/einzweiterversuch"
 baseurl:
 google_analytics_key:
 logo: /siteicon.png
@@ -14,7 +14,7 @@ author:
 social:
   name: Author Template
   links:
-    - https://github.com/CloudCannon/author-jekyll-template
+    - https://github.com/digitaleangebote/einzweiterversuch
 
 # -----
 # Build
